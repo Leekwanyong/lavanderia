@@ -39,5 +39,8 @@ out/
 ### Mac OS ###
 .DS_Store
 
-### 제외 ###
+### 제외 ###r
+application.yml
+lavanderia-421805-157140079398.json
+database.properties
 application.properties
